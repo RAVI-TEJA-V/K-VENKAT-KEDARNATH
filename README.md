@@ -1,4 +1,3 @@
-### Hi 👋, I'm K Venkat Kedarnath
 <h1 align="center"> Hi 👋, I'm K Venkat Kedarnath</h1>
 <h3>I'm an engineering student currently in my 3rd year, studying B.E. Computer Science at BITS Pilani, Hyderabad campus.</h3>
 
