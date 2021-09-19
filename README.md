@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi 👋, I'm K Venkat Kedarnath
 
+I'm an engineering student currently in my 3rd year, studying B.E. Computer Science at BITS Pilani, Hyderabad campus.
+
+Skills include C, C++, Web development, ReactJS, SQL, Python, Java
+
+Have basic idea of Testing (using Mocha and Chai), using heroku postgres and deploying on heroku etc.
+
+📫 How to reach me: kedar.kanday@gmail.com (or) f20190155@hyderabad.bits-pilani.ac.in
 <!--
 **K-VENKAT-KEDARNATH/K-VENKAT-KEDARNATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
