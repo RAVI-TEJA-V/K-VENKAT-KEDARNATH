@@ -3,7 +3,7 @@
 
 <h4>Skills include C, C++, Web development, ReactJS, SQL, Python, Java</h4>
 
-Have basic idea of Testing (using Mocha and Chai), using heroku postgres and deploying on heroku etc.
+Have basic idea of Testing (using Mocha and Chai), usage of heroku postgres and deploying on heroku etc.
 
 📫 How to reach me: kedar.kanday@gmail.com (or) f20190155@hyderabad.bits-pilani.ac.in
 <!--
