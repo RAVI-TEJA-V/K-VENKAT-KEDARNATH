@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm K Venkat Kedarnath</h1>
-<h3>I'm an engineering student currently in my 3rd year, studying B.E. Computer Science at BITS Pilani, Hyderabad campus.</h3>
+<h3>I'm an engineering student currently in my 4th year, studying B.E. Computer Science at BITS Pilani, Hyderabad campus.</h3>
 
-<h4>Skills include C, C++, Web development, ReactJS, SQL, Python, Java</h4>
+<h4>Skills include C, C++, Web development, ReactJS, SQL, Express, Node, Python, Java</h4>
 
 Have basic idea of Testing (using Mocha and Chai), usage of heroku postgres and deploying on heroku etc.
 
