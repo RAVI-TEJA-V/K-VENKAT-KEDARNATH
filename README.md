@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm RAVI TEJA VENIGALLA</h1>
-<h3>I'm an engineering student currently in my 4th year, studying B.E. Electronis and Communications Engineering at BITS Pilani, Hyderabad campus.</h3>
+<h4>I'm an engineering student currently in my 4th year, studying B.E. Electronis and Communications Engineering at BITS Pilani, Hyderabad campus.</h4>
 
 <h4>Skills include C, C++, Web development, Angular, SQL, Nodejs, Python, FastAPI, Firebase</h4>
 
