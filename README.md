@@ -1,13 +1,13 @@
-<h1 align="center"> Hi 👋, I'm K Venkat Kedarnath</h1>
-<h3>I'm an engineering student currently in my 4th year, studying B.E. Computer Science at BITS Pilani, Hyderabad campus.</h3>
+<h1 align="center"> Hi 👋, I'm RAVI TEJA VENIGALLA</h1>
+<h3>I'm an engineering student currently in my 4th year, studying B.E. Electronis and Communications Engineering at BITS Pilani, Hyderabad campus.</h3>
 
-<h4>Skills include C, C++, Web development, ReactJS, SQL, Express, Node, Python, Java</h4>
+<h4>Skills include C, C++, Web development, Angular, SQL, Nodejs, Python, FastAPI, Firebase</h4>
 
-Have basic idea of Testing (using Mocha and Chai), usage of heroku postgres and deploying on heroku etc.
 
-📫 How to reach me: kedar.kanday@gmail.com (or) f20190155@hyderabad.bits-pilani.ac.in
+
+📫 How to reach me: venigallamurali79@gmail.com(or) f20190232@hyderabad.bits-pilani.ac.in
 <!--
-**K-VENKAT-KEDARNATH/K-VENKAT-KEDARNATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**V-RAVI-TEJA/K-RAVI-TEJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
